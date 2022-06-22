@@ -195,3 +195,8 @@ The refactored code ran in 0.1953125 seconds using the 2018 worksheet data.
 ![VBA_Chellenge_2018](https://user-images.githubusercontent.com/104794100/174687531-3e69b4e0-c545-457e-91ab-da07b114bfc9.png)
 
 ## Summary
+Refactoring code can speed up run time when it comes to doing a large analysis. Adding new varibles to add new funcitionality can make the code longer 
+which can be a disadvantage when it comes to memory and storage. Still, longer might mean more efficient and faster run times like it did in this project. 
+An additional variable was created and two new "for" loops were created to make the code work if the tickers array was expanded to include more stocks.
+Though this code is longer and more complex it ran faster than the original code. 
+

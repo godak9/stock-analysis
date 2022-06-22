@@ -95,9 +95,11 @@ The three "if" statements generated values for "totalVolume", "startingPrice" an
  Next i
 ```
 The original code ran in 0.84375 seconds using the 2017 worksheet data.
+
 ![Original_Run_2017](https://user-images.githubusercontent.com/104794100/174687595-b8dd1075-7622-47de-a28b-ddf0a1e1229d.png)
 
 The original code ran in 0.84375 seconds using the 2018 workheet data.
+
 ![Original_Run_2018](https://user-images.githubusercontent.com/104794100/174687599-53e5a46b-da6c-4b0f-82df-b77e732b9889.png)
 
 ### Refactored Script
@@ -185,9 +187,11 @@ I wanted to create another for loop that similar to the original code, but conta
  ```
  
 The refactored code ran in 0.1953125 seconds using the 2017 worksheet data.
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/104794100/174687524-afa5235e-f507-4422-8f42-23cd8c37ed3a.png)
 
 The refactored code ran in 0.1953125 seconds using the 2018 worksheet data.
+
 ![VBA_Chellenge_2018](https://user-images.githubusercontent.com/104794100/174687531-3e69b4e0-c545-457e-91ab-da07b114bfc9.png)
 
 ## Summary
